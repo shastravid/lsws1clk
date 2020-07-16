@@ -4,7 +4,7 @@
 # WordPress Latest 
 # Magento stable
 # LSCache Latest 
-# PHP 7.4
+# PHP 7.3
 # MariaDB 10.5
 # Memcached stable
 # Redis stable
@@ -24,9 +24,9 @@ USER=''
 GROUP=''
 THEME='twentytwenty'
 MARIAVER='10.5'
-PHPVER='74'
+PHPVER='73'
 PHP_M='7'
-PHP_S='4'
+PHP_S='3'
 FIREWALLLIST="22 80 443"
 PHP_MEMORY='777'
 PHP_BIN="${LSDIR}/lsphp${PHPVER}/bin/lsphp"
